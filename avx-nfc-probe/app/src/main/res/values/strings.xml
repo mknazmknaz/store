@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AVX NFC Probe</string>
+    <string name="hce_description">AVX HCE/APDU protocol probe</string>
+    <string name="aid_group_description">AVX probe AIDs</string>
+</resources>
